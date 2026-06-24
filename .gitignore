@@ -1,0 +1,14 @@
+.venv/
+venv/
+
+**pycache**/
+*.pyc
+
+.env
+
+chroma_db/
+
+.streamlit/
+
+uploads/
+temp/
